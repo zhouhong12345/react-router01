@@ -1,0 +1,137 @@
+
+.homediv{
+    width: 900px;
+    height: 40px;
+    float: left;
+    line-height: 40px;
+    background:whitesmoke;
+}
+.homediv a{
+    color:#32CD32;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+.bottom{
+    width: 450px;
+    float: left;
+    margin-top: 15px;
+    padding-left: 10px;
+    height: 40px;
+}
+.bottom button{
+    width:35px;
+    height: 30px;
+    border: 1px solid #c0c0c0;
+    background: white;
+}
+.bottom a{
+    color: darkgray;
+}
+.small{
+    float: left;
+    width: 900px;
+    height: 50px;
+    /* background-color: yellow; */
+}
+.smallOne{
+    float: left;
+    width:50px;
+    height:50px;
+    text-align: center;
+    padding-top: 5px;
+    /* background-color: teal; */
+}
+.smallOne img{
+    width:30px;
+    height: 30px;
+    margin-top: 2px;
+}
+.smallTwo{
+    width:23px;
+    height: 50px;
+    /* background-color: red; */
+    font-size: 15px;
+    float: left;
+    line-height: 50px;
+}
+.smallThree{
+    width:30px;
+    height: 50px;
+    /* background-color: rgb(0, 255, 136); */
+    font-size: 12px;
+    float: left;
+    color:grey;
+    line-height: 50px;
+}
+.smallFour a{
+    width:675px;
+    height: 50px;
+    /* background-color: hotpink; */
+    line-height: 50px;
+    float: left;
+    font-size: 11px;
+    color:black;
+}
+.topa{
+    width: 30px;
+    height: 20px;
+    float: left;
+    background-color: yellowgreen;
+    margin-top: 15px;
+    margin-right: 8px;
+    margin-left: 15px;
+}
+.topb img{
+    width:22px;
+    height: 22px;
+    float: left;
+    margin-top: 5px;
+}
+.topc p{
+    font-size: 7px;
+    margin-top: 8px;
+}
+.in{
+    float: left;
+    width: 370px;
+    height: 300px;
+    margin-left: 80px;
+    padding-top: 60px;
+}
+.in p{
+    float: left;
+}
+.in input{
+    float: left;
+    width:300px;
+    height: 35px;
+    margin-left: 20px;
+    border:1px solid gray;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+.in button{
+    width: 220px;
+    margin-left: 105px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: tomato;
+    cursor: pointer;
+}
+.about{
+    width: 270px;
+    height: 245px;
+    background-color: white;
+}
+.about p{
+    margin-left: 10px;
+    margin-top: 12px;
+}
+.about ul li{
+    margin-left: 40px;
+    font-size: 13px;
+    list-style-type: disc;
+}
+
