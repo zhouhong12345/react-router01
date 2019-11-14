@@ -60,10 +60,9 @@ export default class AppHome extends Component {
                     </div>
 
                 </div>
-                <div style={{ width: '100%', height: '1557px' }}>
+                <div style={{ width: '100%', height: '1557px',backgroundColor:'white'}}>
                     <div style={{ backgroundColor: '#3fcccb', height: '60px', width: '20px', float: 'left', marginTop: '20px' }}></div>
                     <p style={{ float: "left", fontSize: "40px", marginTop: '17px', marginLeft: '30px', marginBottom: '0' }}>热门推荐</p>
-                    {/* <img src={'./image/bottomOne.png'} style={{width:"100%",float:'left',marginBottom:'20px'}}></img> */}
                     {this.state.imgTwo.map((item, inde) => <img src={item} style={{ width: "100%", float: 'left', marginTop: '20px' }} />)}
                 </div>
             </div>
