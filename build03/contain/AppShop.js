@@ -27,7 +27,7 @@ export default class AppShop extends Component {
             circle[i] = html;
         }
         return (
-            <div style={{backgroundColor:'#eeeeee'}}>
+            <div style={{backgroundColor:"#eeeeee"}}>
                 <div style={{ position: 'relative' }}>
                     <NavBar
                         style={{ backgroundColor: '#3fcccb', color: '#fff', height: '130px' }}
@@ -77,7 +77,7 @@ export default class AppShop extends Component {
                         }
                     </ul>
                 </div>
-                <div style={{ paddingTop: '40px', paddingLeft: '30px' }}>
+                <div style={{ paddingTop: '40px', paddingLeft: '30px',height:'1870px'}}>
                     <div style={{ float: 'left' }}>
                         <img src={'./image/cup.png'} style={{ width: '446px', height: '310px', marginRight: '20px' }} />
                         <p style={{ fontSize: '35px', marginBottom: '0', marginTop: '15px', color: 'gray' }}>Top Art Studio 欧式风格精细..</p>
