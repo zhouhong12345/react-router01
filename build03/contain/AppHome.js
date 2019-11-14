@@ -18,7 +18,6 @@ export default class AppHome extends Component {
         }, 100);
     }
 
-
     render() {
         return (
             <div>
