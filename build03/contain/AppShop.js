@@ -27,7 +27,7 @@ export default class AppShop extends Component {
             circle[i] = html;
         }
         return (
-            <div>
+            <div style={{backgroundColor:'#eeeeee'}}>
                 <div style={{ position: 'relative' }}>
                     <NavBar
                         style={{ backgroundColor: '#3fcccb', color: '#fff', height: '130px' }}
